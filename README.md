@@ -48,3 +48,10 @@ http://127.0.0.1:7860
 # Reya_ATML_WGAN_CIFAR_Lab5
 A simple web interface was built using Gradio to generate synthetic CIFAR images using a trained Wasserstein GAN (WGAN) model. The generator takes random noise as input and produces new images that resemble the CIFAR dataset. For better visualization, the generated 32×32 images are upscaled before displaying them in the interface.
 
+## Results
+
+###  Web Interface AND Generated Images
+![Generated Images](screenshots/out1.png)
+
+
+![Frontend UI](screenshots/out2.png)
