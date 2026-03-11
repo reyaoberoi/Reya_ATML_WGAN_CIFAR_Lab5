@@ -51,7 +51,7 @@ A simple web interface was built using Gradio to generate synthetic CIFAR images
 ## Results
 
 ###  Web Interface AND Generated Images
-![Generated Images](screenshots/out1.png)
+![Sample Output](screenshots/out1.png)
 
 
-![Frontend UI](screenshots/out2.png)
+![Sample Output](screenshots/out2.png)
