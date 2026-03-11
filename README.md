@@ -12,7 +12,7 @@ This project implements a Wasserstein Generative Adversarial Network (WGAN) trai
 CIFAR-10 dataset (60,000 images of 10 classes)
 
 ## Project Structure
-
+```
 WGAN_CIFAR_Project
 │
 ├── models
@@ -21,6 +21,7 @@ WGAN_CIFAR_Project
 ├── app.py
 ├── requirements.txt
 └── README.md
+```
 
 ## Run Instructions
 
